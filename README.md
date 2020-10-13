@@ -1,2 +1,2 @@
 # netpeak
-for test task
+docker-compose up
